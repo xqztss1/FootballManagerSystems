@@ -1,4 +1,4 @@
--- Connected Discord-GitHub
+-- Discord: coressed | Roblox: keptlnside
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
